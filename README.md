@@ -1,2 +1,4 @@
-Busca minas o minesweeper con interfaz grafica y usando MVC. Problema para exportar debido a las librerias java.fx.
-JDK 23 requerido.
+Buscaminas o Minesweeper.
+Mi primer proyecto con interfaz grafica y usando MVC 100% Java.
+java.fx y JDK 23 requerido.
+Problemas para exportar debido librerias java.fx.
