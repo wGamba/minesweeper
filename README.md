@@ -1,20 +1,20 @@
-# Buscaminas (Minesweeper)
+# Minesweeper
 
-Mi primer proyecto con interfaz gráfica y usando el patrón **MVC** en **100% Java**.  
+My first project with a graphical interface using the **MVC** pattern in **100% Java**.  
 
-## Autor  
+## Author  
 **wGamba**  
 
-## Requisitos  
+## Requirements  
 - **JDK 23**  
-- **JavaFX** (librerías necesarias para la interfaz gráfica)  
+- **JavaFX** (necessary libraries for the graphical interface)  
 
-## Configuración  
+## Setup  
 
-Para ejecutar el juego, es necesario configurar el módulo de **JavaFX**.  
-Si tienes problemas al ejecutar el programa, asegúrate de agregar el siguiente argumento en la configuración de ejecución:
+To run the game, you need to configure the **JavaFX** module.  
+If you encounter issues running the program, make sure to add the following argument in the run configuration:
 
-"vmArgs": "--module-path \"RUTA_A_TU_JAVAFX\\lib\" --add-modules javafx.controls,javafx.fxml"
+"vmArgs": "--module-path "PATH_TO_YOUR_JAVAFX\lib" --add-modules javafx.controls,javafx.fxml"
 
-## Nota  
-No pude exportar el juego como un archivo ejecutable debido a las dependencias de **JavaFX**, por lo que es necesario ejecutarlo desde un entorno de desarrollo configurado correctamente.
+## Note  
+I was unable to export the game as an executable file due to **JavaFX** dependencies, so it must be run from a properly configured development environment.
