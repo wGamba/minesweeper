@@ -20,5 +20,6 @@ If you encounter issues running the program, make sure to add the following argu
 I was unable to export the game as an executable file due to **JavaFX** dependencies, so it must be run from a properly configured development environment.
 
 ## Images
-![Image](https://github.com/user-attachments/assets/86adaf33-6aeb-4bf3-aa73-004d803cc857)
-![Image](https://github.com/user-attachments/assets/23dc666b-2f22-4b4d-992b-83d42f40c684)
+![Image](https://github.com/user-attachments/assets/2a892cbe-a8f2-4aa3-941b-3be672cc66d7)
+
+![Image](https://github.com/user-attachments/assets/4da80fe7-77de-4c89-8d05-40ed7074417f)
